@@ -1,0 +1,195 @@
+#indexpage{
+    background-color:lightblue;
+}
+#jasmine{
+    color:white;
+    text-align:center;
+    font-size:4rem;
+    background-color:black;
+    border-radius:50px;
+    text-shadow:20px 20px 20px lightgrey;
+}
+#jas{
+    width:300px;
+    
+}
+#jasm{
+    text-align:left ;
+    background-color:white ;
+    color:green;
+    width:500px;
+}
+#heading{
+    background-color: #b60968;
+    color:black;
+    text-align:center;
+    font-size:3rem;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius:100px;
+    box-shadow: 20px 30px 10px grey;
+    text-shadow:10px 20px 30px whitesmoke;
+
+
+}
+#tulip{
+    color:orange;
+    text-align:center;
+    font-size:4rem;
+    background-color:greenyellow;
+    border-radius:50px;
+    text-shadow:20px 20px 20px blue;
+
+}
+#tuli{
+    width:300px;
+
+}
+#tul{
+    text-align:right ;
+    background-color:green ;
+    color:yellow;
+    width:500px;
+
+}
+#rose{
+    color:red;
+    text-align:center;
+    font-size:4rem;
+    background-color:blue;
+    border-radius:50px;
+    text-shadow:20px 20px 20px yellow;
+
+}
+#ros{
+    width:300px;
+
+}
+#ro{
+    text-align:justify ;
+    background-color:aqua ;
+    color:black;
+    width:500px;
+
+}
+#sun{
+    color:yellow;
+    text-align:center;
+    font-size:4rem;
+    background-color:blueviolet;
+    border-radius:50px;
+    text-shadow:20px 20px 20px black;
+
+
+}
+#su{
+    width:300px;
+
+}
+#s{
+    text-align:justify ;
+    background-color:grey ;
+    color:blue;
+    width:500px;
+
+}
+#mainheading{
+    background-color:lightgreen;
+    color:rgb(0, 89, 255);
+    text-align:center;
+    font-size:3rem;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius:100px;
+    box-shadow: 20px 30px 10px rgb(18, 13, 13);
+    text-shadow:10px 20px 30px rgb(72, 66, 66);
+
+
+}
+#mango{
+    color:yellow;
+    box-shadow:10px 20px 30px rgb(72, 66, 66);
+    text-align:center;
+    font-size:3rem;
+    background-color:blueviolet;
+    border-radius:50px;
+    text-shadow:10px 20px 20px black;
+
+}
+#mang{
+    width:300px;
+}
+#man{
+    text-align:justify ;
+    background-color:grey ;
+    color:blue;
+    width:500px;
+
+}
+#apple{
+    color:rgb(123, 7, 7);
+    text-align:center;
+    font-size:3rem;
+    background-color:yellow;
+    border-radius:50px;
+    text-shadow:10px 20px 20px black;
+    width:200px;
+    box-shadow:10px 20px 30px blue;
+    
+
+
+}
+#appl{ 
+    width:300px;
+
+}
+#app{
+    text-align:center ;
+    background-color:lightskyblue ;
+    color:rgb(160, 13, 176);
+    width:500px;
+
+}
+#guava{
+    color:green;
+    text-align:center;
+    font-size:3rem;
+    background-color:lightcoral;
+    border-radius:50px;
+    text-shadow:10px 20px 10px black;
+    box-shadow:10px 20px 30px greenyellow;
+}
+#guav{
+    width:300px;
+
+}
+#gua{
+    text-align:center ;
+    background-color:lightskyblue ;
+    color:rgb(160, 13, 176);
+    width:500px;
+    text-shadow:10px 20px 10px black;
+
+}
+#banana{
+    color:yellow;
+    text-align:center;
+    font-size:3rem;
+    background-color:red;
+    border-radius:50px;
+    text-shadow:10px 20px 10px black;
+    box-shadow:10px 20px 30px grey;
+
+}
+#banan{
+    width:300px;
+
+}
+#bana{
+    text-align:center ;
+    background-color:orange ;
+    color:red;
+    width:500px;
+    text-shadow:10px 20px 10px blue ;
+
+
+}
+
